@@ -1,0 +1,114 @@
+
+.nav-2{
+    position: absolute;
+    left: 40px;
+    padding: 15px;
+    text-align: center;
+    background-color: azure;
+    width: 90%;
+}
+.nav-1{
+    position: absolute;
+    left: 40px;
+    padding: 15px;
+    text-align: center;
+    background-color: azure;
+    width: 90%;
+}
+
+nav li a:hover{
+    background-color: pink;
+    color: black;
+    text-decoration: underline;
+    padding: 10px;
+}
+.seraj-1{
+    padding: 0px;
+    font-weight: bold;
+    float: left;
+}
+.seraj-2{
+    margin: 0px;
+    row-gap: 20px;
+}
+.ul{
+    margin: 0px;
+    float: right;
+}
+.li{
+    margin: 0px;
+    display: inline-block;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.seraj-4{
+    padding: 0px;
+    font-weight: bold;
+    float: left;
+}
+.seraj-3{
+    margin: 0px;
+    row-gap: 20px;
+    float: left;
+}.ul-1{
+    margin: 0px;
+    float: right;
+}
+.li-1{
+    margin: 0px;
+    display: inline-block;
+    padding: 5px;
+    
+}
+.background{
+    background-color: #e1e4e9;
+    position: relative;
+    height: 400px;
+    top: 57px;
+}
+.img{
+    position: relative;
+    float: right;
+    top: 120px;
+    right: 120px;
+    cursor: zoom-in;
+}
+.main{
+    position: relative;
+    width: 400px;
+    top: 96px;
+    left: 140px;
+}
+footer{
+    position: relative;
+    top: 90px;
+    color: #9ba9a6;
+}
+.iner-text-1{
+    position: relative;
+    left: 140px;
+    float: left;
+}
+.iner-text-2{
+    position: relative;
+    right: 210px;
+    float: right;
+}
+button{
+    background-color: #c6cbc9;
+    border: none;
+    position: relative;
+    padding: 7px 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.new{
+    color: rgb(237, 186, 92);
+}
+.heding{
+    color: rgb(2, 2, 131);
+}
